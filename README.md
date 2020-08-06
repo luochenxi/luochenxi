@@ -1,1 +1,1 @@
-![image](https://github.com/luochenxi/luochenxi/dino.gif)
+![image](https://github.com/luochenxi/luochenxi/blob/master/dino.gif)
